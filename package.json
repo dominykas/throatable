@@ -1,0 +1,19 @@
+{
+  "name": "throatable",
+  "version": "0.0.0",
+  "description": "Throwable tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykas/throatable.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/throatable/issues"
+  },
+  "homepage": "https://github.com/dominykas/throatable#readme"
+}
